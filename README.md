@@ -2,9 +2,10 @@
 
 <h3 align="right">Colby T. Ford, Ph.D.</h3>
 
-## Set up your Repo's Secrets
+## Set up your Repo's Secrets.
 
-In your GitHub repo, create the follow secrets with the specified values.h
+
+In your GitHub repo, create the follow secrets with the specified values.
 
 - ARM_CLIENT_ID: `c075ec05-db99-4195-ba8b-f0d42995e5e1`
 - ARM_CLIENT_SECRET: `Check class website`
